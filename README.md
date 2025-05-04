@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephKabaka
 - 👀 I’m interested in ...fullstack webdevelopment
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently learning ...ExpressJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...josephkabaka006@gmail.com
 - 😄 Pronouns: ...he
